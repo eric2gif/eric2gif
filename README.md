@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eric2gif
 - 👀 I’m interested in IoT integration
-- 🌱 I’m currently learning Python languase
+- 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
